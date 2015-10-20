@@ -22,7 +22,7 @@ class Media extends Model
     public $previousManipulations = [];
 
     /**
-     * pippo
+     * pippo 2
      * The attributes that should be casted to native types.
      *
      * @var array
